@@ -1,5 +1,6 @@
 public with sharing class Test {
     public Test() {
-        System.debug('************FirstMethodCalled');//
+        System.debug('************FirstMethodCalled');
+        // New comment line
     }
 }
