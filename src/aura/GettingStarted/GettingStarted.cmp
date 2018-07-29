@@ -5,6 +5,7 @@
 	</p>
     <table class="slds-text-body_regular">
         <tr>
+            <!-- -->
         	<td class="iconColumn">
                 <lightning:icon iconName="action:check" size="small"/>
             </td>
